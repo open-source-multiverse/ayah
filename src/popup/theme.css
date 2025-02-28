@@ -1,0 +1,149 @@
+:root
+{
+  --primary-color: #faffbe;
+  --secondary-color: #fb64b6;
+  --text-color: #fff;
+  --background-color: #000000;
+  --hover-color: #e6f7f7;
+
+}
+
+
+
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  width:  320px;
+  height: 420px;
+
+  border-radius: 16px;
+  position: relative;
+  border: 3px solid transparent;
+  background-clip: padding-box;
+  text-align: center;
+  color: var(--text-color);
+  background-image: url(src/background.jpg);
+  text-shadow: 2px 2px 2px var(--background-color);
+  backdrop-filter: blur(1.5px);
+
+
+}
+
+
+.logo
+{
+  border-radius: 50%;
+  overflow: visible;
+  width:  175px;
+  height: 175px;
+  position: relative;
+}
+.logo img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 92px;
+  height: 92px;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+
+.description
+{
+  color: var(--primary-color);
+  text-align: start;
+  font-size: medium;
+  
+}
+
+.description:hover
+{
+  /* color: black; */
+  text-shadow:  2px 2px 2px var(--background-color);
+  
+  /* font-weight: 900; */
+}
+
+.actions {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.actions > * {
+  margin: 0 0.25rem;
+}
+
+.btn {
+  border: 0;
+  background-color: transparent;
+  padding: 0;
+  height: 46px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  line-height: 1;
+  transition: 0.15s ease;
+}
+.btn--primary {
+  border-radius: 99em;
+  background-color: var(--primary-color);
+  color: var(--background-color);
+  padding: 0 1.375em;
+}
+.btn--primary:hover, .btn--primary:focus {
+  background-size: 150%;
+}
+.btn--icon {
+  height: 46px;
+  width:  46px;
+  border-radius: 50%;
+  border: 2px dotted var(--primary-color);
+
+}
+
+.btn--icon:hover, .btn--icon:focus {
+  border-color: var(--secondary-color);
+}
+
+.footer
+{
+    display: flex;
+    margin-top: 2rem;
+}
+.osm-title 
+{
+    margin-left: 5px;
+    font-size: 1.2rem;
+    display: inline;
+
+}
