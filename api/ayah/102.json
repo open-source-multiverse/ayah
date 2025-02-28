@@ -1,0 +1,91 @@
+{
+  "number": 102,
+  "name": {
+    "ar": "التكاثر",
+    "en": "At-Takathur"
+  },
+  "verses_count": 8,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ",
+        "en": "Competition in [worldly] increase diverts you"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+        "en": "Until you visit the graveyards"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "كَلَّا سَوۡفَ تَعۡلَمُونَ",
+        "en": "No! You are going to know"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ",
+        "en": "Then no! You are going to know"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+        "en": "No! If you only knew with knowledge of certainty"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "لَتَرَوُنَّ ٱلۡجَحِيمَ",
+        "en": "You will surely see the Hellfire"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+        "en": "Then you will surely see it with the eye of certainty"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ",
+        "en": "Then you will surely be asked that Day about pleasure"
+      },
+      "juz": 30,
+      "page": 600,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

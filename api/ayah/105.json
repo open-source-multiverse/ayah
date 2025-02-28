@@ -1,0 +1,61 @@
+{
+  "number": 105,
+  "name": {
+    "ar": "الفيل",
+    "en": "Al-Fil"
+  },
+  "verses_count": 5,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+        "en": "Have you not considered, [O Muhammad], how your Lord dealt with the companions of the elephant"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+        "en": "Did He not make their plan into misguidance"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+        "en": "And He sent against them birds in flocks"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+        "en": "Striking them with stones of hard clay"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+        "en": "And He made them like eaten straw"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

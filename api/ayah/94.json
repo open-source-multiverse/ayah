@@ -1,0 +1,91 @@
+{
+  "number": 94,
+  "name": {
+    "ar": "الشرح",
+    "en": "Ash-Sharh"
+  },
+  "verses_count": 8,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "أَلَمۡ نَشۡرَحۡ لَكَ صَدۡرَكَ",
+        "en": "Did We not expand for you, [O Muhammad], your breast"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+        "en": "And We removed from you your burden"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+        "en": "Which had weighed upon your back"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+        "en": "And raised high for you your repute"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+        "en": "For indeed, with hardship [will be] ease"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "إِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرٗا",
+        "en": "Indeed, with hardship [will be] ease"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+        "en": "So when you have finished [your duties], then stand up [for worship]"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+        "en": "And to your Lord direct [your] longing"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

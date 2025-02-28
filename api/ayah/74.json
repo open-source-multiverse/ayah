@@ -1,0 +1,571 @@
+{
+  "number": 74,
+  "name": {
+    "ar": "المدثر",
+    "en": "Al-Muddaththir"
+  },
+  "verses_count": 56,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "يَـٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+        "en": "O you who covers himself [with a garment]"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "قُمۡ فَأَنذِرۡ",
+        "en": "Arise and warn"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَرَبَّكَ فَكَبِّرۡ",
+        "en": "And your Lord glorify"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَثِيَابَكَ فَطَهِّرۡ",
+        "en": "And your clothing purify"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "وَٱلرُّجۡزَ فَٱهۡجُرۡ",
+        "en": "And uncleanliness avoid"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+        "en": "And do not confer favor to acquire more"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+        "en": "But for your Lord be patient"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ",
+        "en": "And when the trumpet is blown"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ",
+        "en": "That Day will be a difficult day"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "عَلَى ٱلۡكَٰفِرِينَ غَيۡرُ يَسِيرٖ",
+        "en": "For the disbelievers - not easy"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "ذَرۡنِي وَمَنۡ خَلَقۡتُ وَحِيدٗا",
+        "en": "Leave Me with the one I created alone"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
+        "en": "And to whom I granted extensive wealth"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "وَبَنِينَ شُهُودٗا",
+        "en": "And children present [with him]"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
+        "en": "And spread [everything] before him, easing [his life]"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "ثُمَّ يَطۡمَعُ أَنۡ أَزِيدَ",
+        "en": "Then he desires that I should add more"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "كَلَّآۖ إِنَّهُۥ كَانَ لِأٓيَٰتِنَا عَنِيدٗا",
+        "en": "No! Indeed, he has been toward Our verses obstinate"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "سَأُرۡهِقُهُۥ صَعُودًا",
+        "en": "I will cover him with arduous torment"
+      },
+      "juz": 29,
+      "page": 575,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+        "en": "Indeed, he thought and deliberated"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+        "en": "So may he be destroyed [for] how he deliberated"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "ثُمَّ قُتِلَ كَيۡفَ قَدَّرَ",
+        "en": "Then may he be destroyed [for] how he deliberated"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "ثُمَّ نَظَرَ",
+        "en": "Then he considered [again]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "ثُمَّ عَبَسَ وَبَسَرَ",
+        "en": "Then he frowned and scowled"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "ثُمَّ أَدۡبَرَ وَٱسۡتَكۡبَرَ",
+        "en": "Then he turned back and was arrogant"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ",
+        "en": "And said, \"This is not but magic imitated [from others]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "إِنۡ هَٰذَآ إِلَّا قَوۡلُ ٱلۡبَشَرِ",
+        "en": "This is not but the word of a human being"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "سَأُصۡلِيهِ سَقَرَ",
+        "en": "I will drive him into Saqar"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+        "en": "And what can make you know what is Saqar"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "لَا تُبۡقِي وَلَا تَذَرُ",
+        "en": "It lets nothing remain and leaves nothing [unburned]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "لَوَّاحَةٞ لِّلۡبَشَرِ",
+        "en": "Blackening the skins"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+        "en": "Over it are nineteen [angels]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+        "en": "And We have not made the keepers of the Fire except angels. And We have not made their number except as a trial for those who disbelieve - that those who were given the Scripture will be convinced and those who have believed will increase in faith and those who were given the Scripture and the believers will not doubt and that those in whose hearts is hypocrisy and the disbelievers will say, \"What does Allah intend by this as an example?\" Thus does Allah leave astray whom He wills and guides whom He wills. And none knows the soldiers of your Lord except Him. And mention of the Fire is not but a reminder to humanity"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "كَلَّا وَٱلۡقَمَرِ",
+        "en": "No! By the moon"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "وَٱلَّيۡلِ إِذۡ أَدۡبَرَ",
+        "en": "And [by] the night when it departs"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+        "en": "And [by] the morning when it brightens"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+        "en": "Indeed, the Fire is of the greatest [afflictions]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "نَذِيرٗا لِّلۡبَشَرِ",
+        "en": "As a warning to humanity"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+        "en": "To whoever wills among you to proceed or stay behind"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+        "en": "Every soul, for what it has earned, will be retained"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ",
+        "en": "Except the companions of the right"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "فِي جَنَّـٰتٖ يَتَسَآءَلُونَ",
+        "en": "[Who will be] in gardens, questioning each other"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "عَنِ ٱلۡمُجۡرِمِينَ",
+        "en": "About the criminals"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "مَا سَلَكَكُمۡ فِي سَقَرَ",
+        "en": "[And asking them], \"What put you into Saqar"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "قَالُواْ لَمۡ نَكُ مِنَ ٱلۡمُصَلِّينَ",
+        "en": "They will say, \"We were not of those who prayed"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "وَلَمۡ نَكُ نُطۡعِمُ ٱلۡمِسۡكِينَ",
+        "en": "Nor did we used to feed the poor"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ",
+        "en": "And we used to enter into vain discourse with those who engaged [in it]"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+        "en": "And we used to deny the Day of Recompense"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+        "en": "Until there came to us the certainty"
+      },
+      "juz": 29,
+      "page": 576,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّـٰفِعِينَ",
+        "en": "So there will not benefit them the intercession of [any] intercessors"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ",
+        "en": "Then what is [the matter] with them that they are, from the reminder, turning away"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "كَأَنَّهُمۡ حُمُرٞ مُّسۡتَنفِرَةٞ",
+        "en": "As if they were alarmed donkeys"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "فَرَّتۡ مِن قَسۡوَرَةِۭ",
+        "en": "Fleeing from a lion"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "بَلۡ يُرِيدُ كُلُّ ٱمۡرِيٕٖ مِّنۡهُمۡ أَن يُؤۡتَىٰ صُحُفٗا مُّنَشَّرَةٗ",
+        "en": "Rather, every person among them desires that he would be given scriptures spread about"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 53,
+      "text": {
+        "ar": "كَلَّاۖ بَل لَّا يَخَافُونَ ٱلۡأٓخِرَةَ",
+        "en": "No! But they do not fear the Hereafter"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 54,
+      "text": {
+        "ar": "كَلَّآ إِنَّهُۥ تَذۡكِرَةٞ",
+        "en": "No! Indeed, the Qur'an is a reminder"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 55,
+      "text": {
+        "ar": "فَمَن شَآءَ ذَكَرَهُۥ",
+        "en": "Then whoever wills will remember it"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    },
+    {
+      "number": 56,
+      "text": {
+        "ar": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+        "en": "And they will not remember except that Allah wills. He is worthy of fear and adequate for [granting] forgiveness"
+      },
+      "juz": 29,
+      "page": 577,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

@@ -1,0 +1,531 @@
+{
+  "number": 69,
+  "name": {
+    "ar": "الحاقة",
+    "en": "Al-Haqqah"
+  },
+  "verses_count": 52,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "ٱلۡحَآقَّةُ",
+        "en": "The Inevitable Reality"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "مَا ٱلۡحَآقَّةُ",
+        "en": "What is the Inevitable Reality"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ",
+        "en": "And what can make you know what is the Inevitable Reality"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
+        "en": "Thamud and 'Aad denied the Striking Calamity"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
+        "en": "So as for Thamud, they were destroyed by the overpowering [blast]"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ",
+        "en": "And as for 'Aad, they were destroyed by a screaming, violent wind"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ",
+        "en": "Which Allah imposed upon them for seven nights and eight days in succession, so you would see the people therein fallen as if they were hollow trunks of palm trees"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ",
+        "en": "Then do you see of them any remains"
+      },
+      "juz": 29,
+      "page": 566,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ",
+        "en": "And there came Pharaoh and those before him and the overturned cities with sin"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً",
+        "en": "And they disobeyed the messenger of their Lord, so He seized them with a seizure exceeding [in severity]"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "إِنَّا لَمَّا طَغَا ٱلۡمَآءُ حَمَلۡنَٰكُمۡ فِي ٱلۡجَارِيَةِ",
+        "en": "Indeed, when the water overflowed, We carried your ancestors in the sailing ship"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةٗ وَتَعِيَهَآ أُذُنٞ وَٰعِيَةٞ",
+        "en": "That We might make it for you a reminder and [that] a conscious ear would be conscious of it"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ",
+        "en": "Then when the Horn is blown with one blast"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةٗ وَٰحِدَةٗ",
+        "en": "And the earth and the mountains are lifted and leveled with one blow"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ",
+        "en": "Then on that Day, the Resurrection will occur"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ",
+        "en": "And the heaven will split [open], for that Day it is infirm"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
+        "en": "And the angels are at its edges. And there will bear the Throne of your Lord above them, that Day, eight [of them]"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "يَوۡمَئِذٖ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِيَةٞ",
+        "en": "That Day, you will be exhibited [for judgement]; not hidden among you is anything concealed"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ",
+        "en": "So as for he who is given his record in his right hand, he will say, \"Here, read my record"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "إِنِّي ظَنَنتُ أَنِّي مُلَٰقٍ حِسَابِيَهۡ",
+        "en": "Indeed, I was certain that I would be meeting my account"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+        "en": "So he will be in a pleasant life"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "فِي جَنَّةٍ عَالِيَةٖ",
+        "en": "In an elevated garden"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "قُطُوفُهَا دَانِيَةٞ",
+        "en": "Its [fruit] to be picked hanging near"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
+        "en": "[They will be told], \"Eat and drink in satisfaction for what you put forth in the days past"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِشِمَالِهِۦ فَيَقُولُ يَٰلَيۡتَنِي لَمۡ أُوتَ كِتَٰبِيَهۡ",
+        "en": "But as for he who is given his record in his left hand, he will say, \"Oh, I wish I had not been given my record"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
+        "en": "And had not known what is my account"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
+        "en": "I wish my death had been the decisive one"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
+        "en": "My wealth has not availed me"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ",
+        "en": "Gone from me is my authority"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "خُذُوهُ فَغُلُّوهُ",
+        "en": "[Allah will say], \"Seize him and shackle him"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
+        "en": "Then into Hellfire drive him"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
+        "en": "Then into a chain whose length is seventy cubits insert him"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ",
+        "en": "Indeed, he did not used to believe in Allah, the Most Great"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+        "en": "Nor did he encourage the feeding of the poor"
+      },
+      "juz": 29,
+      "page": 567,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ",
+        "en": "So there is not for him here this Day any devoted friend"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ",
+        "en": "Nor any food except from the discharge of wounds"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ",
+        "en": "None will eat it except the sinners"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "فَلَآ أُقۡسِمُ بِمَا تُبۡصِرُونَ",
+        "en": "So I swear by what you see"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "وَمَا لَا تُبۡصِرُونَ",
+        "en": "And what you do not see"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+        "en": "[That] indeed, the Qur'an is the word of a noble Messenger"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "وَمَا هُوَ بِقَوۡلِ شَاعِرٖۚ قَلِيلٗا مَّا تُؤۡمِنُونَ",
+        "en": "And it is not the word of a poet; little do you believe"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+        "en": "Nor the word of a soothsayer; little do you remember"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+        "en": "[It is] a revelation from the Lord of the worlds"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "وَلَوۡ تَقَوَّلَ عَلَيۡنَا بَعۡضَ ٱلۡأَقَاوِيلِ",
+        "en": "And if Muhammad had made up about Us some [false] sayings"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "لَأَخَذۡنَا مِنۡهُ بِٱلۡيَمِينِ",
+        "en": "We would have seized him by the right hand"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
+        "en": "Then We would have cut from him the aorta"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "فَمَا مِنكُم مِّنۡ أَحَدٍ عَنۡهُ حَٰجِزِينَ",
+        "en": "And there is no one of you who could prevent [Us] from him"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ",
+        "en": "And indeed, the Qur'an is a reminder for the righteous"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+        "en": "And indeed, We know that among you are deniers"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ",
+        "en": "And indeed, it will be [a cause of] regret upon the disbelievers"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "وَإِنَّهُۥ لَحَقُّ ٱلۡيَقِينِ",
+        "en": "And indeed, it is the truth of certainty"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+        "en": "So exalt the name of your Lord, the Most Great"
+      },
+      "juz": 29,
+      "page": 568,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

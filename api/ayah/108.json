@@ -1,0 +1,41 @@
+{
+  "number": 108,
+  "name": {
+    "ar": "الكوثر",
+    "en": "Al-Kawthar"
+  },
+  "verses_count": 3,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+        "en": "Indeed, We have granted you, [O Muhammad], al-Kawthar"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+        "en": "So pray to your Lord and sacrifice [to Him alone]"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+        "en": "Indeed, your enemy is the one cut off"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

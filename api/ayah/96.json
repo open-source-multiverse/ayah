@@ -1,0 +1,205 @@
+{
+  "number": 96,
+  "name": {
+    "ar": "العلق",
+    "en": "Al-'Alaq"
+  },
+  "verses_count": 19,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+        "en": "Recite in the name of your Lord who created"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "خَلَقَ ٱلۡإِنسَٰنَ مِنۡ عَلَقٍ",
+        "en": "Created man from a clinging substance"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "ٱقۡرَأۡ وَرَبُّكَ ٱلۡأَكۡرَمُ",
+        "en": "Recite, and your Lord is the most Generous"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "ٱلَّذِي عَلَّمَ بِٱلۡقَلَمِ",
+        "en": "Who taught by the pen"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+        "en": "Taught man that which he knew not"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+        "en": "No! [But] indeed, man transgresses"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "أَن رَّءَاهُ ٱسۡتَغۡنَىٰٓ",
+        "en": "Because he sees himself self-sufficient"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+        "en": "Indeed, to your Lord is the return"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "أَرَءَيۡتَ ٱلَّذِي يَنۡهَىٰ",
+        "en": "Have you seen the one who forbids"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "عَبۡدًا إِذَا صَلَّىٰٓ",
+        "en": "A servant when he prays"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+        "en": "Have you seen if he is upon guidance"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+        "en": "Or enjoins righteousness"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "أَرَءَيۡتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+        "en": "Have you seen if he denies and turns away"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+        "en": "Does he not know that Allah sees"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "كَلَّا لَئِن لَّمۡ يَنتَهِ لَنَسۡفَعَۢا بِٱلنَّاصِيَةِ",
+        "en": "No! If he does not desist, We will surely drag him by the forelock"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+        "en": "A lying, sinning forelock"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "فَلۡيَدۡعُ نَادِيَهُۥ",
+        "en": "Then let him call his associates"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+        "en": "We will call the angels of Hell"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+        "en": "No! Do not obey him. But prostrate and draw near [to Allah]"
+      },
+      "juz": 30,
+      "page": 597,
+      "sajda": {
+        "id": 15,
+        "recommended": false,
+        "obligatory": true
+      }
+    }
+  ],
+  "revelation_place": "مكية"
+}

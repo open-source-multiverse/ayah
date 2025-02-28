@@ -1,0 +1,41 @@
+{
+  "number": 103,
+  "name": {
+    "ar": "العصر",
+    "en": "Al-'Asr"
+  },
+  "verses_count": 3,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلۡعَصۡرِ",
+        "en": "By time"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+        "en": "Indeed, mankind is in loss"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّـٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+        "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience"
+      },
+      "juz": 30,
+      "page": 601,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

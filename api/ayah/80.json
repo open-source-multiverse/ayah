@@ -1,0 +1,431 @@
+{
+  "number": 80,
+  "name": {
+    "ar": "عبس",
+    "en": "'Abasa"
+  },
+  "verses_count": 42,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "عَبَسَ وَتَوَلَّىٰٓ",
+        "en": "The Prophet frowned and turned away"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+        "en": "Because there came to him the blind man, [interrupting]"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+        "en": "But what would make you perceive, [O Muhammad], that perhaps he might be purified"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "أَوۡ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكۡرَىٰٓ",
+        "en": "Or be reminded and the remembrance would benefit him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+        "en": "As for he who thinks himself without need"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+        "en": "To him you give attention"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+        "en": "And not upon you [is any blame] if he will not be purified"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وَأَمَّا مَن جَآءَكَ يَسۡعَىٰ",
+        "en": "But as for he who came to you striving [for knowledge]"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَهُوَ يَخۡشَىٰ",
+        "en": "While he fears [Allah]"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "فَأَنتَ عَنۡهُ تَلَهَّىٰ",
+        "en": "From him you are distracted"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "كَلَّآ إِنَّهَا تَذۡكِرَةٞ",
+        "en": "No! Indeed, these verses are a reminder"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "فَمَن شَآءَ ذَكَرَهُۥ",
+        "en": "So whoever wills may remember it"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فِي صُحُفٖ مُّكَرَّمَةٖ",
+        "en": "[It is recorded] in honored sheets"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "مَّرۡفُوعَةٖ مُّطَهَّرَةِۭ",
+        "en": "Exalted and purified"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "بِأَيۡدِي سَفَرَةٖ",
+        "en": "[Carried] by the hands of messenger-angels"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "كِرَامِۭ بَرَرَةٖ",
+        "en": "Noble and dutiful"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ",
+        "en": "Cursed is man; how disbelieving is he"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "مِنۡ أَيِّ شَيۡءٍ خَلَقَهُۥ",
+        "en": "From what substance did He create him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+        "en": "From a sperm-drop He created him and destined for him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+        "en": "Then He eased the way for him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+        "en": "Then He causes his death and provides a grave for him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+        "en": "Then when He wills, He will resurrect him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "كَلَّا لَمَّا يَقۡضِ مَآ أَمَرَهُۥ",
+        "en": "No! Man has not yet accomplished what He commanded him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+        "en": "Then let mankind look at his food"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "أَنَّا صَبَبۡنَا ٱلۡمَآءَ صَبّٗا",
+        "en": "How We poured down water in torrents"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "ثُمَّ شَقَقۡنَا ٱلۡأَرۡضَ شَقّٗا",
+        "en": "Then We broke open the earth, splitting [it with sprouts]"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
+        "en": "And caused to grow within it grain"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "وَعِنَبٗا وَقَضۡبٗا",
+        "en": "And grapes and herbage"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "وَزَيۡتُونٗا وَنَخۡلٗا",
+        "en": "And olive and palm trees"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "وَحَدَآئِقَ غُلۡبٗا",
+        "en": "And gardens of dense shrubbery"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "وَفَٰكِهَةٗ وَأَبّٗا",
+        "en": "And fruit and grass"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+        "en": "[As] enjoyment for you and your grazing livestock"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+        "en": "But when there comes the Deafening Blast"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "يَوۡمَ يَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِيهِ",
+        "en": "On the Day a man will flee from his brother"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "وَأُمِّهِۦ وَأَبِيهِ",
+        "en": "And his mother and his father"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+        "en": "And his wife and his children"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ",
+        "en": "For every man, that Day, will be a matter adequate for him"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
+        "en": "[Some] faces, that Day, will be bright"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "ضَاحِكَةٞ مُّسۡتَبۡشِرَةٞ",
+        "en": "Laughing, rejoicing at good news"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
+        "en": "And [other] faces, that Day, will have upon them dust"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "تَرۡهَقُهَا قَتَرَةٌ",
+        "en": "Blackness will cover them"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "أُوْلَـٰٓئِكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ",
+        "en": "Those are the disbelievers, the wicked ones"
+      },
+      "juz": 30,
+      "page": 585,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

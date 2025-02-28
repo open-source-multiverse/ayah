@@ -1,0 +1,81 @@
+{
+  "number": 107,
+  "name": {
+    "ar": "الماعون",
+    "en": "Al-Ma'un"
+  },
+  "verses_count": 7,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ",
+        "en": "Have you seen the one who denies the Recompense"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ",
+        "en": "For that is the one who drives away the orphan"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+        "en": "And does not encourage the feeding of the poor"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "فَوَيۡلٞ لِّلۡمُصَلِّينَ",
+        "en": "So woe to those who pray"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+        "en": "[But] who are heedless of their prayer"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "ٱلَّذِينَ هُمۡ يُرَآءُونَ",
+        "en": "Those who make show [of their deeds]"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ",
+        "en": "And withhold [simple] assistance"
+      },
+      "juz": 30,
+      "page": 602,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

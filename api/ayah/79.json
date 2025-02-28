@@ -1,0 +1,471 @@
+{
+  "number": 79,
+  "name": {
+    "ar": "النازعات",
+    "en": "An-Nazi'at"
+  },
+  "verses_count": 46,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلنَّـٰزِعَٰتِ غَرۡقٗا",
+        "en": "By those [angels] who extract with violence"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَٱلنَّـٰشِطَٰتِ نَشۡطٗا",
+        "en": "And [by] those who remove with ease"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَٱلسَّـٰبِحَٰتِ سَبۡحٗا",
+        "en": "And [by] those who glide [as if] swimming"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "فَٱلسَّـٰبِقَٰتِ سَبۡقٗا",
+        "en": "And those who race each other in a race"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا",
+        "en": "And those who arrange [each] matter"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ",
+        "en": "On the Day the blast [of the Horn] will convulse [creation]"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
+        "en": "There will follow it the subsequent [one]"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ",
+        "en": "Hearts, that Day, will tremble"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "أَبۡصَٰرُهَا خَٰشِعَةٞ",
+        "en": "Their eyes humbled"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ",
+        "en": "They are [presently] saying, \"Will we indeed be returned to [our] former state [of life]"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "أَءِذَا كُنَّا عِظَٰمٗا نَّخِرَةٗ",
+        "en": "Even if we should be decayed bones"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ",
+        "en": "They say, \"That, then, would be a losing return"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ",
+        "en": "Indeed, it will be but one shout"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+        "en": "And suddenly they will be [alert] upon the earth's surface"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "هَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+        "en": "Has there reached you the story of Moses"
+      },
+      "juz": 30,
+      "page": 583,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى",
+        "en": "When his Lord called to him in the sacred valley of Tuwa"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+        "en": "Go to Pharaoh. Indeed, he has transgressed"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "فَقُلۡ هَل لَّكَ إِلَىٰٓ أَن تَزَكَّىٰ",
+        "en": "And say to him, 'Would you [be willing to] purify yourself"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَأَهۡدِيَكَ إِلَىٰ رَبِّكَ فَتَخۡشَىٰ",
+        "en": "And let me guide you to your Lord so you would fear [Him]"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "فَأَرَىٰهُ ٱلۡأٓيَةَ ٱلۡكُبۡرَىٰ",
+        "en": "And he showed him the greatest sign"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "فَكَذَّبَ وَعَصَىٰ",
+        "en": "But Pharaoh denied and disobeyed"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "ثُمَّ أَدۡبَرَ يَسۡعَىٰ",
+        "en": "Then he turned his back, striving"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "فَحَشَرَ فَنَادَىٰ",
+        "en": "And he gathered [his people] and called out"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "فَقَالَ أَنَا۠ رَبُّكُمُ ٱلۡأَعۡلَىٰ",
+        "en": "And said, \"I am your most exalted lord"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ",
+        "en": "So Allah seized him in exemplary punishment for the last and the first [transgression]"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ",
+        "en": "Indeed in that is a warning for whoever would fear [Allah]"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "ءَأَنتُمۡ أَشَدُّ خَلۡقًا أَمِ ٱلسَّمَآءُۚ بَنَىٰهَا",
+        "en": "Are you a more difficult creation or is the heaven? Allah constructed it"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "رَفَعَ سَمۡكَهَا فَسَوَّىٰهَا",
+        "en": "He raised its ceiling and proportioned it"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "وَأَغۡطَشَ لَيۡلَهَا وَأَخۡرَجَ ضُحَىٰهَا",
+        "en": "And He darkened its night and extracted its brightness"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ",
+        "en": "And after that He spread the earth"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "أَخۡرَجَ مِنۡهَا مَآءَهَا وَمَرۡعَىٰهَا",
+        "en": "He extracted from it its water and its pasture"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "وَٱلۡجِبَالَ أَرۡسَىٰهَا",
+        "en": "And the mountains He set firmly"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+        "en": "As provision for you and your grazing livestock"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ",
+        "en": "But when there comes the greatest Overwhelming Calamity"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ",
+        "en": "The Day when man will remember that for which he strove"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ",
+        "en": "And Hellfire will be exposed for [all] those who see"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "فَأَمَّا مَن طَغَىٰ",
+        "en": "So as for he who transgressed"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+        "en": "And preferred the life of the world"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "فَإِنَّ ٱلۡجَحِيمَ هِيَ ٱلۡمَأۡوَىٰ",
+        "en": "Then indeed, Hellfire will be [his] refuge"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ",
+        "en": "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "فَإِنَّ ٱلۡجَنَّةَ هِيَ ٱلۡمَأۡوَىٰ",
+        "en": "Then indeed, Paradise will be [his] refuge"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا",
+        "en": "They ask you, [O Muhammad], about the Hour: when is its arrival"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
+        "en": "In what [position] are you that you should mention it"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "إِلَىٰ رَبِّكَ مُنتَهَىٰهَآ",
+        "en": "To your Lord is its finality"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا",
+        "en": "You are only a warner for those who fear it"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا",
+        "en": "It will be, on the Day they see it, as though they had not remained [in the world] except for an afternoon or a morning thereof"
+      },
+      "juz": 30,
+      "page": 584,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

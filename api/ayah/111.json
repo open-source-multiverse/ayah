@@ -1,0 +1,61 @@
+{
+  "number": 111,
+  "name": {
+    "ar": "المسد",
+    "en": "Al-Masad"
+  },
+  "verses_count": 5,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+        "en": "May the hands of Abu Lahab be ruined, and ruined is he"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+        "en": "His wealth will not avail him or that which he gained"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ",
+        "en": "He will [enter to] burn in a Fire of [blazing] flame"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+        "en": "And his wife [as well] - the carrier of firewood"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+        "en": "Around her neck is a rope of [twisted] fiber"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

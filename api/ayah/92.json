@@ -1,0 +1,221 @@
+{
+  "number": 92,
+  "name": {
+    "ar": "الليل",
+    "en": "Al-Layl"
+  },
+  "verses_count": 21,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+        "en": "By the night when it covers"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+        "en": "And [by] the day when it appears"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+        "en": "And [by] He who created the male and female"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "إِنَّ سَعۡيَكُمۡ لَشَتَّىٰ",
+        "en": "Indeed, your efforts are diverse"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+        "en": "As for he who gives and fears Allah"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+        "en": "And believes in the best [reward]"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+        "en": "We will ease him toward ease"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+        "en": "But as for he who withholds and considers himself free of need"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَكَذَّبَ بِٱلۡحُسۡنَىٰ",
+        "en": "And denies the best [reward]"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "فَسَنُيَسِّرُهُۥ لِلۡعُسۡرَىٰ",
+        "en": "We will ease him toward difficulty"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "وَمَا يُغۡنِي عَنۡهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+        "en": "And what will his wealth avail him when he falls"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "إِنَّ عَلَيۡنَا لَلۡهُدَىٰ",
+        "en": "Indeed, [incumbent] upon Us is guidance"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+        "en": "And indeed, to Us belongs the Hereafter and the first [life]"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "فَأَنذَرۡتُكُمۡ نَارٗا تَلَظَّىٰ",
+        "en": "So I have warned you of a Fire which is blazing"
+      },
+      "juz": 30,
+      "page": 595,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+        "en": "None will [enter to] burn therein except the most wretched one"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "ٱلَّذِي كَذَّبَ وَتَوَلَّىٰ",
+        "en": "Who had denied and turned away"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+        "en": "But the righteous one will avoid it"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+        "en": "[He] who gives [from] his wealth to purify himself"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
+        "en": "And not [giving] for anyone who has [done him] a favor to be rewarded"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "إِلَّا ٱبۡتِغَآءَ وَجۡهِ رَبِّهِ ٱلۡأَعۡلَىٰ",
+        "en": "But only seeking the countenance of his Lord, Most High"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "وَلَسَوۡفَ يَرۡضَىٰ",
+        "en": "And he is going to be satisfied"
+      },
+      "juz": 30,
+      "page": 596,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

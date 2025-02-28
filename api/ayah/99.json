@@ -1,0 +1,91 @@
+{
+  "number": 99,
+  "name": {
+    "ar": "الزلزلة",
+    "en": "Az-Zalzalah"
+  },
+  "verses_count": 8,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+        "en": "When the earth is shaken with its [final] earthquake"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَأَخۡرَجَتِ ٱلۡأَرۡضُ أَثۡقَالَهَا",
+        "en": "And the earth discharges its burdens"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+        "en": "And man says, \"What is [wrong] with it"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+        "en": "That Day, it will report its news"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+        "en": "Because your Lord has commanded it"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "يَوۡمَئِذٖ يَصۡدُرُ ٱلنَّاسُ أَشۡتَاتٗا لِّيُرَوۡاْ أَعۡمَٰلَهُمۡ",
+        "en": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+        "en": "So whoever does an atom's weight of good will see it"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+        "en": "And whoever does an atom's weight of evil will see it"
+      },
+      "juz": 30,
+      "page": 599,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مدنية"
+}

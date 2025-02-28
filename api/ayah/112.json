@@ -1,0 +1,51 @@
+{
+  "number": 112,
+  "name": {
+    "ar": "الإخلاص",
+    "en": "Al-Ikhlas"
+  },
+  "verses_count": 4,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+        "en": "Say, \"He is Allah, [who is] One"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "ٱللَّهُ ٱلصَّمَدُ",
+        "en": "Allah, the Eternal Refuge"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+        "en": "He neither begets nor is born"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+        "en": "Nor is there to Him any equivalent"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

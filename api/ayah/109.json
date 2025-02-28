@@ -1,0 +1,71 @@
+{
+  "number": 109,
+  "name": {
+    "ar": "الكافرون",
+    "en": "Al-Kafirun"
+  },
+  "verses_count": 6,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "قُلۡ يَـٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+        "en": "Say, \"O disbelievers"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+        "en": "I do not worship what you worship"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+        "en": "Nor are you worshippers of what I worship"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+        "en": "Nor will I be a worshipper of what you worship"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+        "en": "Nor will you be worshippers of what I worship"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+        "en": "For you is your religion, and for me is my religion"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

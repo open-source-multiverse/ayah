@@ -1,0 +1,271 @@
+{
+  "number": 88,
+  "name": {
+    "ar": "الغاشية",
+    "en": "Al-Ghashiyah"
+  },
+  "verses_count": 26,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ",
+        "en": "Has there reached you the report of the Overwhelming [event]"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وُجُوهٞ يَوۡمَئِذٍ خَٰشِعَةٌ",
+        "en": "[Some] faces, that Day, will be humbled"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "عَامِلَةٞ نَّاصِبَةٞ",
+        "en": "Working [hard] and exhausted"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "تَصۡلَىٰ نَارًا حَامِيَةٗ",
+        "en": "They will [enter to] burn in an intensely hot Fire"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "تُسۡقَىٰ مِنۡ عَيۡنٍ ءَانِيَةٖ",
+        "en": "They will be given drink from a boiling spring"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
+        "en": "For them there will be no food except from a poisonous, thorny plant"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
+        "en": "Which neither nourishes nor avails against hunger"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
+        "en": "[Other] faces, that Day, will show pleasure"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "لِّسَعۡيِهَا رَاضِيَةٞ",
+        "en": "With their effort [they are] satisfied"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "فِي جَنَّةٍ عَالِيَةٖ",
+        "en": "In an elevated garden"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ",
+        "en": "Wherein they will hear no unsuitable speech"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "فِيهَا عَيۡنٞ جَارِيَةٞ",
+        "en": "Within it is a flowing spring"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فِيهَا سُرُرٞ مَّرۡفُوعَةٞ",
+        "en": "Within it are couches raised high"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
+        "en": "And cups put in place"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "وَنَمَارِقُ مَصۡفُوفَةٞ",
+        "en": "And cushions lined up"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "وَزَرَابِيُّ مَبۡثُوثَةٌ",
+        "en": "And carpets spread around"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "أَفَلَا يَنظُرُونَ إِلَى ٱلۡإِبِلِ كَيۡفَ خُلِقَتۡ",
+        "en": "Then do they not look at the camels - how they are created"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "وَإِلَى ٱلسَّمَآءِ كَيۡفَ رُفِعَتۡ",
+        "en": "And at the sky - how it is raised"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَإِلَى ٱلۡجِبَالِ كَيۡفَ نُصِبَتۡ",
+        "en": "And at the mountains - how they are erected"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
+        "en": "And at the earth - how it is spread out"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
+        "en": "So remind, [O Muhammad]; you are only a reminder"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
+        "en": "You are not over them a controller"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+        "en": "However, he who turns away and disbelieves"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+        "en": "Then Allah will punish him with the greatest punishment"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "إِنَّ إِلَيۡنَآ إِيَابَهُمۡ",
+        "en": "Indeed, to Us is their return"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+        "en": "Then indeed, upon Us is their account"
+      },
+      "juz": 30,
+      "page": 592,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

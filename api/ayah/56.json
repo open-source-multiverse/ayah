@@ -1,0 +1,971 @@
+{
+  "number": 56,
+  "name": {
+    "ar": "الواقعة",
+    "en": "Al-Waqi'ah"
+  },
+  "verses_count": 96,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+        "en": "When the Occurrence occurs"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+        "en": "There is, at its occurrence, no denial"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "خَافِضَةٞ رَّافِعَةٌ",
+        "en": "It will bring down [some] and raise up [others]"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+        "en": "When the earth is shaken with convulsion"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+        "en": "And the mountains are broken down, crumbling"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+        "en": "And become dust dispersing"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+        "en": "And you become [of] three kinds"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+        "en": "Then the companions of the right - what are the companions of the right"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+        "en": "And the companions of the left - what are the companions of the left"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+        "en": "And the forerunners, the forerunners"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "أُوْلَـٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+        "en": "Those are the ones brought near [to Allah]"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "فِي جَنَّـٰتِ ٱلنَّعِيمِ",
+        "en": "In the Gardens of Pleasure"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+        "en": "A [large] company of the former peoples"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+        "en": "And a few of the later peoples"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+        "en": "On thrones woven [with ornament]"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+        "en": "Reclining on them, facing each other"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+        "en": "There will circulate among them young boys made eternal"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+        "en": "With vessels, pitchers and a cup [of wine] from a flowing spring"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+        "en": "No headache will they have therefrom, nor will they be intoxicated"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+        "en": "And fruit of what they select"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+        "en": "And the meat of fowl, from whatever they desire"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "وَحُورٌ عِينٞ",
+        "en": "And [for them are] fair women with large, [beautiful] eyes"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+        "en": "The likenesses of pearls well-protected"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+        "en": "As reward for what they used to do"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+        "en": "They will not hear therein ill speech or commission of sin"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+        "en": "Only a saying: \"Peace, peace"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+        "en": "The companions of the right - what are the companions of the right"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "فِي سِدۡرٖ مَّخۡضُودٖ",
+        "en": "[They will be] among lote trees with thorns removed"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "وَطَلۡحٖ مَّنضُودٖ",
+        "en": "And [banana] trees layered [with fruit]"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "وَظِلّٖ مَّمۡدُودٖ",
+        "en": "And shade extended"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "وَمَآءٖ مَّسۡكُوبٖ",
+        "en": "And water poured out"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+        "en": "And fruit, abundant [and varied]"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+        "en": "Neither limited [to season] nor forbidden"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+        "en": "And [upon] beds raised high"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+        "en": "Indeed, We have produced the women of Paradise in a [new] creation"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+        "en": "And made them virgins"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "عُرُبًا أَتۡرَابٗا",
+        "en": "Devoted [to their husbands] and of equal age"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+        "en": "For the companions of the right [who are]"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+        "en": "A company of the former peoples"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+        "en": "And a company of the later peoples"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+        "en": "And the companions of the left - what are the companions of the left"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "فِي سَمُومٖ وَحَمِيمٖ",
+        "en": "[They will be] in scorching fire and scalding water"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "وَظِلّٖ مِّن يَحۡمُومٖ",
+        "en": "And a shade of black smoke"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+        "en": "Neither cool nor beneficial"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+        "en": "Indeed they were, before that, indulging in affluence"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+        "en": "And they used to persist in the great violation"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+        "en": "And they used to say, \"When we die and become dust and bones, are we indeed to be resurrected"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+        "en": "And our forefathers [as well]"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+        "en": "Say, [O Muhammad], \"Indeed, the former and the later peoples"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+        "en": "Are to be gathered together for the appointment of a known Day"
+      },
+      "juz": 27,
+      "page": 535,
+      "sajda": false
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+        "en": "Then indeed you, O those astray [who are] deniers"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+        "en": "Will be eating from trees of zaqqum"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 53,
+      "text": {
+        "ar": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+        "en": "And filling with it your bellies"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 54,
+      "text": {
+        "ar": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+        "en": "And drinking on top of it from scalding water"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 55,
+      "text": {
+        "ar": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+        "en": "And will drink as the drinking of thirsty camels"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 56,
+      "text": {
+        "ar": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+        "en": "That is their accommodation on the Day of Recompense"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 57,
+      "text": {
+        "ar": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+        "en": "We have created you, so why do you not believe"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 58,
+      "text": {
+        "ar": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+        "en": "Have you seen that which you emit"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 59,
+      "text": {
+        "ar": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+        "en": "Is it you who creates it, or are We the Creator"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 60,
+      "text": {
+        "ar": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+        "en": "We have decreed death among you, and We are not to be outdone"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 61,
+      "text": {
+        "ar": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+        "en": "In that We will change your likenesses and produce you in that [form] which you do not know"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 62,
+      "text": {
+        "ar": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+        "en": "And you have already known the first creation, so will you not remember"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 63,
+      "text": {
+        "ar": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+        "en": "And have you seen that [seed] which you sow"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 64,
+      "text": {
+        "ar": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّـٰرِعُونَ",
+        "en": "Is it you who makes it grow, or are We the grower"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 65,
+      "text": {
+        "ar": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+        "en": "If We willed, We could make it [dry] debris, and you would remain in wonder"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 66,
+      "text": {
+        "ar": "إِنَّا لَمُغۡرَمُونَ",
+        "en": "[Saying], \"Indeed, we are [now] in debt"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 67,
+      "text": {
+        "ar": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+        "en": "Rather, we have been deprived"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 68,
+      "text": {
+        "ar": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+        "en": "And have you seen the water that you drink"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 69,
+      "text": {
+        "ar": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+        "en": "Is it you who brought it down from the clouds, or is it We who bring it down"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 70,
+      "text": {
+        "ar": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+        "en": "If We willed, We could make it bitter, so why are you not grateful"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 71,
+      "text": {
+        "ar": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+        "en": "And have you seen the fire that you ignite"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 72,
+      "text": {
+        "ar": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+        "en": "Is it you who produced its tree, or are We the producer"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 73,
+      "text": {
+        "ar": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+        "en": "We have made it a reminder and provision for the travelers"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 74,
+      "text": {
+        "ar": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+        "en": "So exalt the name of your Lord, the Most Great"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 75,
+      "text": {
+        "ar": "۞فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+        "en": "Then I swear by the setting of the stars"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 76,
+      "text": {
+        "ar": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+        "en": "And indeed, it is an oath - if you could know - [most] great"
+      },
+      "juz": 27,
+      "page": 536,
+      "sajda": false
+    },
+    {
+      "number": 77,
+      "text": {
+        "ar": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+        "en": "Indeed, it is a noble Qur'an"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 78,
+      "text": {
+        "ar": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+        "en": "In a Register well-protected"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 79,
+      "text": {
+        "ar": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+        "en": "None touch it except the purified"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 80,
+      "text": {
+        "ar": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+        "en": "[It is] a revelation from the Lord of the worlds"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 81,
+      "text": {
+        "ar": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+        "en": "Then is it to this statement that you are indifferent"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 82,
+      "text": {
+        "ar": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+        "en": "And make [the thanks for] your provision that you deny [the Provider]"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 83,
+      "text": {
+        "ar": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+        "en": "Then why, when the soul at death reaches the throat"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 84,
+      "text": {
+        "ar": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+        "en": "And you are at that time looking on"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 85,
+      "text": {
+        "ar": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+        "en": "And Our angels are nearer to him than you, but you do not see"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 86,
+      "text": {
+        "ar": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+        "en": "Then why do you not, if you are not to be recompensed"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 87,
+      "text": {
+        "ar": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+        "en": "Bring it back, if you should be truthful"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 88,
+      "text": {
+        "ar": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+        "en": "And if the deceased was of those brought near to Allah"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 89,
+      "text": {
+        "ar": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+        "en": "Then [for him is] rest and bounty and a garden of pleasure"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 90,
+      "text": {
+        "ar": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+        "en": "And if he was of the companions of the right"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 91,
+      "text": {
+        "ar": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+        "en": "Then [the angels will say], \"Peace for you; [you are] from the companions of the right"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 92,
+      "text": {
+        "ar": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+        "en": "But if he was of the deniers [who were] astray"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 93,
+      "text": {
+        "ar": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+        "en": "Then [for him is] accommodation of scalding water"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 94,
+      "text": {
+        "ar": "وَتَصۡلِيَةُ جَحِيمٍ",
+        "en": "And burning in Hellfire"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 95,
+      "text": {
+        "ar": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+        "en": "Indeed, this is the true certainty"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    },
+    {
+      "number": 96,
+      "text": {
+        "ar": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+        "en": "So exalt the name of your Lord, the Most Great"
+      },
+      "juz": 27,
+      "page": 537,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

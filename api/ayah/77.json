@@ -1,0 +1,511 @@
+{
+  "number": 77,
+  "name": {
+    "ar": "المرسلات",
+    "en": "Al-Mursalat"
+  },
+  "verses_count": 50,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا",
+        "en": "By those [winds] sent forth in gusts"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+        "en": "And the winds that blow violently"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَٱلنَّـٰشِرَٰتِ نَشۡرٗا",
+        "en": "And [by] the winds that spread [clouds]"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+        "en": "And those [angels] who bring criterion"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+        "en": "And those [angels] who deliver a message"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "عُذۡرًا أَوۡ نُذۡرًا",
+        "en": "As justification or warning"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+        "en": "Indeed, what you are promised is to occur"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+        "en": "So when the stars are obliterated"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+        "en": "And when the heaven is opened"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+        "en": "And when the mountains are blown away"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+        "en": "And when the messengers' time has come"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+        "en": "For what Day was it postponed"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "لِيَوۡمِ ٱلۡفَصۡلِ",
+        "en": "For the Day of Judgement"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+        "en": "And what can make you know what is the Day of Judgement"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+        "en": "Did We not destroy the former peoples"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+        "en": "Then We will follow them with the later ones"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+        "en": "Thus do We deal with the criminals"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 580,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+        "en": "Did We not create you from a liquid disdained"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+        "en": "And We placed it in a firm lodging"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+        "en": "For a known extent"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+        "en": "And We determined [it], and excellent [are We] to determine"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+        "en": "Have We not made the earth a container"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+        "en": "Of the living and the dead"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+        "en": "And We placed therein lofty, firmly set mountains and have given you to drink sweet water"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+        "en": "[They will be told], \"Proceed to that which you used to deny"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+        "en": "Proceed to a shadow [of smoke] having three columns"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+        "en": "[But having] no cool shade and availing not against the flame"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+        "en": "Indeed, it throws sparks [as huge] as a fortress"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ",
+        "en": "As if they were yellowish [black] camels"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+        "en": "This is a Day they will not speak"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+        "en": "Nor will it be permitted for them to make an excuse"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+        "en": "This is the Day of Judgement; We will have assembled you and the former peoples"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+        "en": "So if you have a plan, then plan against Me"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+        "en": "Indeed, the righteous will be among shades and springs"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+        "en": "And fruits from whatever they desire"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+        "en": "[Being told], \"Eat and drink in satisfaction for what you used to do"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+        "en": "Indeed, We thus reward the doers of good"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+        "en": "[O disbelievers], eat and enjoy yourselves a little; indeed, you are criminals"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+        "en": "And when it is said to them, \"Bow [in prayer],\" they do not bow"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+        "en": "Woe, that Day, to the deniers"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+        "en": "Then in what statement after the Qur'an will they believe"
+      },
+      "juz": 29,
+      "page": 581,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

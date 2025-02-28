@@ -1,0 +1,41 @@
+{
+  "number": 110,
+  "name": {
+    "ar": "النصر",
+    "en": "An-Nasr"
+  },
+  "verses_count": 3,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+        "en": "When the victory of Allah has come and the conquest"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+        "en": "And you see the people entering into the religion of Allah in multitudes"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+        "en": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance"
+      },
+      "juz": 30,
+      "page": 603,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مدنية"
+}

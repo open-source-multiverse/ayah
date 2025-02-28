@@ -1,0 +1,791 @@
+{
+  "number": 55,
+  "name": {
+    "ar": "الرحمن",
+    "en": "Ar-Rahman"
+  },
+  "verses_count": 78,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "ٱلرَّحۡمَٰنُ",
+        "en": "The Most Merciful"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "عَلَّمَ ٱلۡقُرۡءَانَ",
+        "en": "Taught the Qur'an"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "خَلَقَ ٱلۡإِنسَٰنَ",
+        "en": "Created man"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "عَلَّمَهُ ٱلۡبَيَانَ",
+        "en": "[And] taught him eloquence"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+        "en": "The sun and the moon [move] by precise calculation"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+        "en": "And the stars and trees prostrate"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلۡمِيزَانَ",
+        "en": "And the heaven He raised and imposed the balance"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "أَلَّا تَطۡغَوۡاْ فِي ٱلۡمِيزَانِ",
+        "en": "That you not transgress within the balance"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+        "en": "And establish weight in justice and do not make deficient the balance"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "وَٱلۡأَرۡضَ وَضَعَهَا لِلۡأَنَامِ",
+        "en": "And the earth He laid [out] for the creatures"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ",
+        "en": "Therein is fruit and palm trees having sheaths [of dates]"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ",
+        "en": "And grain having husks and scented plants"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+        "en": "He created man from clay like [that of] pottery"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+        "en": "And He created the jinn from a smokeless flame of fire"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 531,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "رَبُّ ٱلۡمَشۡرِقَيۡنِ وَرَبُّ ٱلۡمَغۡرِبَيۡنِ",
+        "en": "[He is] Lord of the two sunrises and Lord of the two sunsets"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "مَرَجَ ٱلۡبَحۡرَيۡنِ يَلۡتَقِيَانِ",
+        "en": "He released the two seas, meeting [side by side]"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "بَيۡنَهُمَا بَرۡزَخٞ لَّا يَبۡغِيَانِ",
+        "en": "Between them is a barrier [so] neither of them transgresses"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "يَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ",
+        "en": "From both of them emerge pearl and coral"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+        "en": "And to Him belong the ships [with sails] elevated in the sea like mountains"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "كُلُّ مَنۡ عَلَيۡهَا فَانٖ",
+        "en": "Everyone upon the earth will perish"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+        "en": "And there will remain the Face of your Lord, Owner of Majesty and Honor"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "يَسۡـَٔلُهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ كُلَّ يَوۡمٍ هُوَ فِي شَأۡنٖ",
+        "en": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+        "en": "We will attend to you, O prominent beings"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ أَن تَنفُذُواْ مِنۡ أَقۡطَارِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ فَٱنفُذُواْۚ لَا تَنفُذُونَ إِلَّا بِسُلۡطَٰنٖ",
+        "en": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah]"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+        "en": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+        "en": "And when the heaven is split open and becomes rose-colored like oil"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+        "en": "Then on that Day none will be asked about his sin among men or jinn"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 532,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "يُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِيمَٰهُمۡ فَيُؤۡخَذُ بِٱلنَّوَٰصِي وَٱلۡأَقۡدَامِ",
+        "en": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِي يُكَذِّبُ بِهَا ٱلۡمُجۡرِمُونَ",
+        "en": "This is Hell, which the criminals deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+        "en": "They will go around between it and scalding water, heated [to the utmost degree]"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+        "en": "But for he who has feared the position of his Lord are two gardens"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "ذَوَاتَآ أَفۡنَانٖ",
+        "en": "Having [spreading] branches"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "فِيهِمَا عَيۡنَانِ تَجۡرِيَانِ",
+        "en": "In both of them are two springs, flowing"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+        "en": "In both of them are of every fruit, two kinds"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 53,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 54,
+      "text": {
+        "ar": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+        "en": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 55,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 56,
+      "text": {
+        "ar": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرۡفِ لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+        "en": "In them are women limiting [their] glances, untouched before them by man or jinni"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 57,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 58,
+      "text": {
+        "ar": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+        "en": "As if they were rubies and coral"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 59,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 60,
+      "text": {
+        "ar": "هَلۡ جَزَآءُ ٱلۡإِحۡسَٰنِ إِلَّا ٱلۡإِحۡسَٰنُ",
+        "en": "Is the reward for good [anything] but good"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 61,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 62,
+      "text": {
+        "ar": "وَمِن دُونِهِمَا جَنَّتَانِ",
+        "en": "And below them both [in excellence] are two [other] gardens"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 63,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 64,
+      "text": {
+        "ar": "مُدۡهَآمَّتَانِ",
+        "en": "Dark green [in color]"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 65,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 66,
+      "text": {
+        "ar": "فِيهِمَا عَيۡنَانِ نَضَّاخَتَانِ",
+        "en": "In both of them are two springs, spouting"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 67,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 533,
+      "sajda": false
+    },
+    {
+      "number": 68,
+      "text": {
+        "ar": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+        "en": "In both of them are fruit and palm trees and pomegranates"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 69,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 70,
+      "text": {
+        "ar": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+        "en": "In them are good and beautiful women"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 71,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 72,
+      "text": {
+        "ar": "حُورٞ مَّقۡصُورَٰتٞ فِي ٱلۡخِيَامِ",
+        "en": "Fair ones reserved in pavilions"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 73,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 74,
+      "text": {
+        "ar": "لَمۡ يَطۡمِثۡهُنَّ إِنسٞ قَبۡلَهُمۡ وَلَا جَآنّٞ",
+        "en": "Untouched before them by man or jinni"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 75,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 76,
+      "text": {
+        "ar": "مُتَّكِـِٔينَ عَلَىٰ رَفۡرَفٍ خُضۡرٖ وَعَبۡقَرِيٍّ حِسَانٖ",
+        "en": "Reclining on green cushions and beautiful fine carpets"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 77,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+        "en": "So which of the favors of your Lord would you deny"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    },
+    {
+      "number": 78,
+      "text": {
+        "ar": "تَبَٰرَكَ ٱسۡمُ رَبِّكَ ذِي ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+        "en": "Blessed is the name of your Lord, Owner of Majesty and Honor"
+      },
+      "juz": 27,
+      "page": 534,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مدنية"
+}

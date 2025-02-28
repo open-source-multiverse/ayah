@@ -1,0 +1,61 @@
+{
+  "number": 113,
+  "name": {
+    "ar": "الفلق",
+    "en": "Al-Falaq"
+  },
+  "verses_count": 5,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+        "en": "Say, \"I seek refuge in the Lord of daybreak"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "مِن شَرِّ مَا خَلَقَ",
+        "en": "From the evil of that which He created"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+        "en": "And from the evil of darkness when it settles"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَمِن شَرِّ ٱلنَّفَّـٰثَٰتِ فِي ٱلۡعُقَدِ",
+        "en": "And from the evil of the blowers in knots"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+        "en": "And from the evil of an envier when he envies"
+      },
+      "juz": 30,
+      "page": 604,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

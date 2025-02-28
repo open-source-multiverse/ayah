@@ -1,0 +1,311 @@
+{
+  "number": 89,
+  "name": {
+    "ar": "الفجر",
+    "en": "Al-Fajr"
+  },
+  "verses_count": 30,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلۡفَجۡرِ",
+        "en": "By the dawn"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَلَيَالٍ عَشۡرٖ",
+        "en": "And [by] ten nights"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَٱلشَّفۡعِ وَٱلۡوَتۡرِ",
+        "en": "And [by] the even [number] and the odd"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَٱلَّيۡلِ إِذَا يَسۡرِ",
+        "en": "And [by] the night when it passes"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "هَلۡ فِي ذَٰلِكَ قَسَمٞ لِّذِي حِجۡرٍ",
+        "en": "Is there [not] in [all] that an oath [sufficient] for one of perception"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+        "en": "Have you not considered how your Lord dealt with 'Aad"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+        "en": "[With] Iram - who had lofty pillars"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+        "en": "The likes of whom had never been created in the land"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "وَثَمُودَ ٱلَّذِينَ جَابُواْ ٱلصَّخۡرَ بِٱلۡوَادِ",
+        "en": "And [with] Thamud, who carved out the rocks in the valley"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+        "en": "And [with] Pharaoh, owner of the stakes"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+        "en": "[All of] whom oppressed within the lands"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+        "en": "And increased therein the corruption"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+        "en": "So your Lord poured upon them a scourge of punishment"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+        "en": "Indeed, your Lord is in observation"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+        "en": "And as for man, when his Lord tries him and [thus] is generous to him and favors him, he says, \"My Lord has honored me"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+        "en": "But when He tries him and restricts his provision, he says, \"My Lord has humiliated me"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+        "en": "No! But you do not honor the orphan"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+        "en": "And you do not encourage one another to feed the poor"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "وَتَأۡكُلُونَ ٱلتُّرَاثَ أَكۡلٗا لَّمّٗا",
+        "en": "And you consume inheritance, devouring [it] altogether"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "وَتُحِبُّونَ ٱلۡمَالَ حُبّٗا جَمّٗا",
+        "en": "And you love wealth with immense love"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "كَلَّآۖ إِذَا دُكَّتِ ٱلۡأَرۡضُ دَكّٗا دَكّٗا",
+        "en": "No! When the earth has been leveled - pounded and crushed"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+        "en": "And your Lord has come and the angels, rank upon rank"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "وَجِاْيٓءَ يَوۡمَئِذِۭ بِجَهَنَّمَۚ يَوۡمَئِذٖ يَتَذَكَّرُ ٱلۡإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكۡرَىٰ",
+        "en": "And brought [within view], that Day, is Hell - that Day, man will remember, but what good to him will be the remembrance"
+      },
+      "juz": 30,
+      "page": 593,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+        "en": "He will say, \"Oh, I wish I had sent ahead [some good] for my life"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "فَيَوۡمَئِذٖ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٞ",
+        "en": "So on that Day, none will punish [as severely] as His punishment"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+        "en": "And none will bind [as severely] as His binding [of the evildoers]"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "يَـٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+        "en": "[To the righteous it will be said], \"O reassured soul"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+        "en": "Return to your Lord, well-pleased and pleasing [to Him]"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "فَٱدۡخُلِي فِي عِبَٰدِي",
+        "en": "And enter among My [righteous] servants"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "وَٱدۡخُلِي جَنَّتِي",
+        "en": "And enter My Paradise"
+      },
+      "juz": 30,
+      "page": 594,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

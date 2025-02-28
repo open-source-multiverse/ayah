@@ -1,0 +1,201 @@
+{
+  "number": 82,
+  "name": {
+    "ar": "الانفطار",
+    "en": "Al-Infitar"
+  },
+  "verses_count": 19,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+        "en": "When the sky breaks apart"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+        "en": "And when the stars fall, scattering"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+        "en": "And when the seas are erupted"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+        "en": "And when the [contents of] graves are scattered"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "عَلِمَتۡ نَفۡسٞ مَّا قَدَّمَتۡ وَأَخَّرَتۡ",
+        "en": "A soul will [then] know what it has put forth and kept back"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "يَـٰٓأَيُّهَا ٱلۡإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلۡكَرِيمِ",
+        "en": "O mankind, what has deceived you concerning your Lord, the Generous"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+        "en": "Who created you, proportioned you, and balanced you"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+        "en": "In whatever form He willed has He assembled you"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "كَلَّا بَلۡ تُكَذِّبُونَ بِٱلدِّينِ",
+        "en": "No! But you deny the Recompense"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "وَإِنَّ عَلَيۡكُمۡ لَحَٰفِظِينَ",
+        "en": "And indeed, [appointed] over you are keepers"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "كِرَامٗا كَٰتِبِينَ",
+        "en": "Noble and recording"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+        "en": "They know whatever you do"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٖ",
+        "en": "Indeed, the righteous will be in pleasure"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+        "en": "And indeed, the wicked will be in Hellfire"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+        "en": "They will [enter to] burn therein on the Day of Recompense"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "وَمَا هُمۡ عَنۡهَا بِغَآئِبِينَ",
+        "en": "And never therefrom will they be absent"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+        "en": "And what can make you know what is the Day of Recompense"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "ثُمَّ مَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلدِّينِ",
+        "en": "Then, what can make you know what is the Day of Recompense"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+        "en": "It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah"
+      },
+      "juz": 30,
+      "page": 587,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

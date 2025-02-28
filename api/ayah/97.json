@@ -1,0 +1,61 @@
+{
+  "number": 97,
+  "name": {
+    "ar": "القدر",
+    "en": "Al-Qadr"
+  },
+  "verses_count": 5,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+        "en": "Indeed, We sent the Qur'an down during the Night of Decree"
+      },
+      "juz": 30,
+      "page": 598,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+        "en": "And what can make you know what is the Night of Decree"
+      },
+      "juz": 30,
+      "page": 598,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+        "en": "The Night of Decree is better than a thousand months"
+      },
+      "juz": 30,
+      "page": 598,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "تَنَزَّلُ ٱلۡمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+        "en": "The angels and the Spirit descend therein by permission of their Lord for every matter"
+      },
+      "juz": 30,
+      "page": 598,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+        "en": "Peace it is until the emergence of dawn"
+      },
+      "juz": 30,
+      "page": 598,
+      "sajda": false
+    }
+  ],
+  "revelation_place": "مكية"
+}

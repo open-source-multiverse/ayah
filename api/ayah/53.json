@@ -1,0 +1,635 @@
+{
+  "number": 53,
+  "name": {
+    "ar": "النجم",
+    "en": "An-Najm"
+  },
+  "verses_count": 62,
+  "verses": [
+    {
+      "number": 1,
+      "text": {
+        "ar": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+        "en": "By the star when it descends"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 2,
+      "text": {
+        "ar": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+        "en": "Your companion [Muhammad] has not strayed, nor has he erred"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 3,
+      "text": {
+        "ar": "وَمَا يَنطِقُ عَنِ ٱلۡهَوَىٰٓ",
+        "en": "Nor does he speak from [his own] inclination"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 4,
+      "text": {
+        "ar": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+        "en": "It is not but a revelation revealed"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 5,
+      "text": {
+        "ar": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+        "en": "Taught to him by one intense in strength"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 6,
+      "text": {
+        "ar": "ذُو مِرَّةٖ فَٱسۡتَوَىٰ",
+        "en": "One of soundness. And he rose to [his] true form"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 7,
+      "text": {
+        "ar": "وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ",
+        "en": "While he was in the higher [part of the] horizon"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 8,
+      "text": {
+        "ar": "ثُمَّ دَنَا فَتَدَلَّىٰ",
+        "en": "Then he approached and descended"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 9,
+      "text": {
+        "ar": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+        "en": "And was at a distance of two bow lengths or nearer"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 10,
+      "text": {
+        "ar": "فَأَوۡحَىٰٓ إِلَىٰ عَبۡدِهِۦ مَآ أَوۡحَىٰ",
+        "en": "And he revealed to His Servant what he revealed"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 11,
+      "text": {
+        "ar": "مَا كَذَبَ ٱلۡفُؤَادُ مَا رَأَىٰٓ",
+        "en": "The heart did not lie [about] what it saw"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 12,
+      "text": {
+        "ar": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+        "en": "So will you dispute with him over what he saw"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 13,
+      "text": {
+        "ar": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+        "en": "And he certainly saw him in another descent"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 14,
+      "text": {
+        "ar": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ",
+        "en": "At the Lote Tree of the Utmost Boundary"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 15,
+      "text": {
+        "ar": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+        "en": "Near it is the Garden of Refuge"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 16,
+      "text": {
+        "ar": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+        "en": "When there covered the Lote Tree that which covered [it]"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 17,
+      "text": {
+        "ar": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+        "en": "The sight [of the Prophet] did not swerve, nor did it transgress [its limit]"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 18,
+      "text": {
+        "ar": "لَقَدۡ رَأَىٰ مِنۡ ءَايَٰتِ رَبِّهِ ٱلۡكُبۡرَىٰٓ",
+        "en": "He certainly saw of the greatest signs of his Lord"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 19,
+      "text": {
+        "ar": "أَفَرَءَيۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ",
+        "en": "So have you considered al-Lat and al-'Uzza"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 20,
+      "text": {
+        "ar": "وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰٓ",
+        "en": "And Manat, the third - the other one"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 21,
+      "text": {
+        "ar": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ",
+        "en": "Is the male for you and for Him the female"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 22,
+      "text": {
+        "ar": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+        "en": "That, then, is an unjust division"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 23,
+      "text": {
+        "ar": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+        "en": "They are not but [mere] names you have named them - you and your forefathers - for which Allah has sent down no authority. They follow not except assumption and what [their] souls desire, and there has already come to them from their Lord guidance"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 24,
+      "text": {
+        "ar": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+        "en": "Or is there for man whatever he wishes"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 25,
+      "text": {
+        "ar": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+        "en": "Rather, to Allah belongs the Hereafter and the first [life]"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 26,
+      "text": {
+        "ar": "۞وَكَم مِّن مَّلَكٖ فِي ٱلسَّمَٰوَٰتِ لَا تُغۡنِي شَفَٰعَتُهُمۡ شَيۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن يَأۡذَنَ ٱللَّهُ لِمَن يَشَآءُ وَيَرۡضَىٰٓ",
+        "en": "And how many angels there are in the heavens whose intercession will not avail at all except [only] after Allah has permitted [it] to whom He wills and approves"
+      },
+      "juz": 27,
+      "page": 526,
+      "sajda": false
+    },
+    {
+      "number": 27,
+      "text": {
+        "ar": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ لَيُسَمُّونَ ٱلۡمَلَـٰٓئِكَةَ تَسۡمِيَةَ ٱلۡأُنثَىٰ",
+        "en": "Indeed, those who do not believe in the Hereafter name the angels female names"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 28,
+      "text": {
+        "ar": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+        "en": "And they have thereof no knowledge. They follow not except assumption, and indeed, assumption avails not against the truth at all"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 29,
+      "text": {
+        "ar": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+        "en": "So turn away from whoever turns his back on Our message and desires not except the worldly life"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 30,
+      "text": {
+        "ar": "ذَٰلِكَ مَبۡلَغُهُم مِّنَ ٱلۡعِلۡمِۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِمَنِ ٱهۡتَدَىٰ",
+        "en": "That is their sum of knowledge. Indeed, your Lord is most knowing of who strays from His way, and He is most knowing of who is guided"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 31,
+      "text": {
+        "ar": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَـٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+        "en": "And to Allah belongs whatever is in the heavens and whatever is in the earth - that He may recompense those who do evil with [the penalty of] what they have done and recompense those who do good with the best [reward]"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 32,
+      "text": {
+        "ar": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَـٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+        "en": "Those who avoid the major sins and immoralities, only [committing] slight ones. Indeed, your Lord is vast in forgiveness. He was most knowing of you when He produced you from the earth and when you were fetuses in the wombs of your mothers. So do not claim yourselves to be pure; He is most knowing of who fears Him"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 33,
+      "text": {
+        "ar": "أَفَرَءَيۡتَ ٱلَّذِي تَوَلَّىٰ",
+        "en": "Have you seen the one who turned away"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 34,
+      "text": {
+        "ar": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+        "en": "And gave a little and [then] refrained"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 35,
+      "text": {
+        "ar": "أَعِندَهُۥ عِلۡمُ ٱلۡغَيۡبِ فَهُوَ يَرَىٰٓ",
+        "en": "Does he have knowledge of the unseen, so he sees"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 36,
+      "text": {
+        "ar": "أَمۡ لَمۡ يُنَبَّأۡ بِمَا فِي صُحُفِ مُوسَىٰ",
+        "en": "Or has he not been informed of what was in the scriptures of Moses"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 37,
+      "text": {
+        "ar": "وَإِبۡرَٰهِيمَ ٱلَّذِي وَفَّىٰٓ",
+        "en": "And [of] Abraham, who fulfilled [his obligations]"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 38,
+      "text": {
+        "ar": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+        "en": "That no bearer of burdens will bear the burden of another"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 39,
+      "text": {
+        "ar": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+        "en": "And that there is not for man except that [good] for which he strives"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 40,
+      "text": {
+        "ar": "وَأَنَّ سَعۡيَهُۥ سَوۡفَ يُرَىٰ",
+        "en": "And that his effort is going to be seen"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 41,
+      "text": {
+        "ar": "ثُمَّ يُجۡزَىٰهُ ٱلۡجَزَآءَ ٱلۡأَوۡفَىٰ",
+        "en": "Then he will be recompensed for it with the fullest recompense"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 42,
+      "text": {
+        "ar": "وَأَنَّ إِلَىٰ رَبِّكَ ٱلۡمُنتَهَىٰ",
+        "en": "And that to your Lord is the finality"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 43,
+      "text": {
+        "ar": "وَأَنَّهُۥ هُوَ أَضۡحَكَ وَأَبۡكَىٰ",
+        "en": "And that it is He who makes [one] laugh and weep"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 44,
+      "text": {
+        "ar": "وَأَنَّهُۥ هُوَ أَمَاتَ وَأَحۡيَا",
+        "en": "And that it is He who causes death and gives life"
+      },
+      "juz": 27,
+      "page": 527,
+      "sajda": false
+    },
+    {
+      "number": 45,
+      "text": {
+        "ar": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+        "en": "And that He creates the two mates - the male and female"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 46,
+      "text": {
+        "ar": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+        "en": "From a sperm-drop when it is emitted"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 47,
+      "text": {
+        "ar": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+        "en": "And that [incumbent] upon Him is the next creation"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 48,
+      "text": {
+        "ar": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+        "en": "And that it is He who enriches and suffices"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 49,
+      "text": {
+        "ar": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+        "en": "And that it is He who is the Lord of Sirius"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 50,
+      "text": {
+        "ar": "وَأَنَّهُۥٓ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ",
+        "en": "And that He destroyed the first [people of] 'Aad"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 51,
+      "text": {
+        "ar": "وَثَمُودَاْ فَمَآ أَبۡقَىٰ",
+        "en": "And Thamud - and He did not spare [them]"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 52,
+      "text": {
+        "ar": "وَقَوۡمَ نُوحٖ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُواْ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ",
+        "en": "And the people of Noah before. Indeed, it was they who were [even] more unjust and oppressing"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 53,
+      "text": {
+        "ar": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+        "en": "And the overturned towns He hurled down"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 54,
+      "text": {
+        "ar": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+        "en": "And covered them by that which He covered"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 55,
+      "text": {
+        "ar": "فَبِأَيِّ ءَالَآءِ رَبِّكَ تَتَمَارَىٰ",
+        "en": "Then which of the favors of your Lord do you doubt"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 56,
+      "text": {
+        "ar": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+        "en": "This [Prophet] is a warner like the former warners"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 57,
+      "text": {
+        "ar": "أَزِفَتِ ٱلۡأٓزِفَةُ",
+        "en": "The Approaching Day has approached"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 58,
+      "text": {
+        "ar": "لَيۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ",
+        "en": "Of it, [from those] besides Allah, there is no remover"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 59,
+      "text": {
+        "ar": "أَفَمِنۡ هَٰذَا ٱلۡحَدِيثِ تَعۡجَبُونَ",
+        "en": "Then at this statement do you wonder"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 60,
+      "text": {
+        "ar": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+        "en": "And you laugh and do not weep"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 61,
+      "text": {
+        "ar": "وَأَنتُمۡ سَٰمِدُونَ",
+        "en": "While you are proudly sporting"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": false
+    },
+    {
+      "number": 62,
+      "text": {
+        "ar": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+        "en": "So prostrate to Allah and worship [Him]"
+      },
+      "juz": 27,
+      "page": 528,
+      "sajda": {
+        "id": 13,
+        "recommended": false,
+        "obligatory": true
+      }
+    }
+  ],
+  "revelation_place": "مكية"
+}
