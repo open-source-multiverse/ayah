@@ -61,19 +61,4 @@ export class DataManager {
         return this.cache.verses[this.verse] || this.cache.verses[0]
     }
 
-    // async go_next() {
-    //     if (this.verse + 1 >= this.cache.verses.lenght) {
-    //         if (this.sura + 1 >= 114) {
-    //             this.sura = 1;
-    //         } else {
-    //             this.sura += 1;
-    //         }
-    //         this.verse = 0;
-    //         await this.fetchData()
-    //     } else {
-    //         this.verse += 1
-    //     }
-    // }
-
-
 }

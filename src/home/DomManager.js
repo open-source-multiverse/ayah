@@ -14,12 +14,7 @@ export class DomManager {
     }
     
     async init() {
-
         await this.dataManager.fetchData()
-    
-        // this.nextBtn.addEventListener('click', async () => {
-        //     await this.dataManager.go_next()
-        // })
     }
 
 
