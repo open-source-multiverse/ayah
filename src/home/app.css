@@ -64,7 +64,7 @@
 main {
     width: 100vw;
     height: 100vh;
-    background-image: url('./media/images/galaxy.jpg');
+    /* background-image: url('./media/images/galaxy.jpg'); */
     background-size:cover
 }
 
