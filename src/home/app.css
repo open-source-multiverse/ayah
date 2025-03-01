@@ -60,12 +60,15 @@
 
 
 /* costum classes */
-
+body
+{
+    background: radial-gradient(circle, rgba(6,4,7,1) 0%, rgba(5,25,77,1) 50%, rgba(22,13,1,1) 100%);
+}
 main {
     width: 100vw;
     height: 100vh;
     /* background-image: url('./media/images/galaxy.jpg'); */
-    background-size:cover
+    background-size:cover;
 }
 
 .text-body {
@@ -117,4 +120,25 @@ main {
 
 .text-en {
     margin-top: 30px;
+}
+
+/* add by alphaben */
+
+.blur-effect ,main {
+
+    filter: blur(20px);
+      /* backdrop-filter: blur(10px); */
+    animation: blurAnimation .5s  forwards; /* Animation duration */
+    /* z-index: -1; */
+}
+
+@keyframes blurAnimation {
+    from {
+        /* backdrop-filter: blur(30px) */
+        filter : blur(5px); 
+    }
+    to {
+        filter : blur(0px); 
+        /* backdrop-filter: blur(0px) */
+    }
 }

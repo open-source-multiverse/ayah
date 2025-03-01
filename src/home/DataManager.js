@@ -1,8 +1,11 @@
+const   BASE_URL = 'https://raw.githubusercontent.com/open-source-multiverse/quran-ayat/refs/heads/main/api'
+
+export default BASE_URL;
 
 export class DataManager {
 
     constructor() {
-        this.api = "http://localhost:3000/api/ayah/"
+        this.api =  `${BASE_URL}/ayah/`
         this.cache = null
         this.verse = 0
         this.sura = 1
@@ -41,7 +44,8 @@ export class DataManager {
         window.localStorage.setItem('verse', this.verse)
     }
 
-    async fetchData() {
+    async fetchData() 
+    {
         const response = await fetch(`${this.api}${this.sura}.json`)
 
         if (!response.ok) {

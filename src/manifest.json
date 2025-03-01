@@ -1,13 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "42Resources",
-    "description": "2resources is a simple extension provide resources for project like [blogs, videos, testers]",
-    "version": "1.0",
-    "browser_specific_settings": {
-        "gecko": {
-            "id": "{ddf4e0df-7e58-48d1-9658-31bbb2e4d981}"
-        }
-    },
+    "name": "ayah آية",
+    "description": "إضافة إسلامية تعرض آية قرآنية أو حديثًا نبويًا كلما فتحت نافذة جديدة في المتصفح",
+    "version": "0.1",
     "action": {
         "default_popup": "popup/popup.html",
         "default_icon": {
