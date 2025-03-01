@@ -1,52 +1,56 @@
-# Islamic New Tab Extension - OSM Community
+# just a tempalete 
+# آية - Ayah
 
-## Overview
-The **Islamic New Tab Extension** is an open-source project developed by the **OSM (Open Source Muslim) Community**. This extension displays a random **Quranic verse (آية)** or **Hadith** each time you open a new tab in your browser, allowing you to stay connected with Islamic teachings throughout your online experience.
+إضافة متصفح إسلامية تعرض آية قرآنية أو حديثًا نبويًا كلما فتحت نافذة جديدة في المتصفح.
 
-## Features
-- Displays a random **Quranic verse** or **Hadith** when a new tab is opened.
-- Simple, clean, and user-friendly interface.
-- Lightweight and optimized for performance — does not slow down the browser.
-- Free and open-source for anyone to contribute or customize.
+![أيقونة الإضافة](icons/icon128.png)
 
-## Installation
-### For Chrome Users:
-1. Go to the **Chrome Web Store**.
-2. Search for "**Islamic New Tab Extension**".
-3. Click **Add to Chrome** to install the extension.
-4. Once installed, a random **Quranic verse** or **Hadith** will appear every time you open a new tab.
+## المميزات
 
-### For Firefox Users:
-1. Visit the **Firefox Add-ons** store.
-2. Search for "**Islamic New Tab Extension**".
-3. Click **Add to Firefox** to install.
-4. Start opening new tabs, and enjoy daily reminders from the Quran and Hadith.
+- عرض آية قرآنية عشوائية عند فتح نافذة جديدة.
+- واجهة بسيطة وسهلة الاستخدام. 
+- دعم للغة العربية.
+- عرض حديث نبوي عشوائي عند فتح نافذة جديدة. [x]
+## كيفية التثبيت
 
-## Usage
-Once installed, simply open a new tab, and the extension will automatically display a random **Quranic verse** (آية) or **Hadith**. Each tab provides a refreshing reminder of Islamic knowledge and teachings.
+1. قم بتنزيل ملفات الإضافة من هذا المستودع.
+2. افتح متصفح Chrome وانتقل إلى `chrome://extensions/`.
+3. قم بتشغيل وضع المطور (Developer Mode) في الزاوية العلوية اليمنى.
+4. انقر على "تحميل غير معبأ" (Load Unpacked) وحدد المجلد الذي يحتوي على ملفات الإضافة.
+5. تم تثبيت الإضافة بنجاح! افتح نافذة جديدة لرؤية الآية أو الحديث.
 
-## Customization
-- **Language Options**: The extension currently supports displaying content in Arabic, but future versions will include more language options.
-- **Themes**: Coming soon, users will be able to change the background or themes of the new tab page.
+## هيكل الملفات
 
-## Contribution
-This extension is part of the **OSM Community**'s effort to create open-source tools for Muslims around the world. We welcome contributions from anyone who would like to help improve the extension. You can contribute by:
+```
+ayah-extension/
+├── icons/
+│   ├── icon16.png
+│   ├── icon32.png
+│   ├── icon48.png
+│   └── icon128.png
+├── popup/
+│   └── popup.html
+├── home/
+│   └── index.html
+├── manifest.json
+└── README.md
+```
 
-- Submitting bug reports or feature requests.
-- Writing code or improving the user interface.
-- Translating the extension into other languages.
+## كيفية المساهمة
 
-To contribute, please fork this repository, make your changes, and submit a pull request.
+نرحب بجميع المساهمات لتحسين هذه الإضافة! إذا كنت ترغب في المساهمة، يرجى اتباع الخطوات التالية:
 
-## License
-This extension is released under the **MIT License**. It is free to use, modify, and distribute.
+1. قم بعمل Fork لهذا المستودع.
+2. أنشئ فرعًا جديدًا (`git checkout -b feature/YourFeatureName`).
+3. قم بإجراء التغييرات المطلوبة وأضفها (`git add .`).
+4. قم بعمل commit للتغييرات (`git commit -m 'Add some feature'`).
+5. ادفع التغييرات إلى الفرع (`git push origin feature/YourFeatureName`).
+6. افتح طلب سحب (Pull Request).
 
-## Community
-The **OSM Community** is a group of Muslim developers and individuals who collaborate on building open-source software tools for the Muslim community. To learn more or to contribute, visit our website at [your website URL here].
+## الرخصة
 
-## Contact
-For feedback, support, or inquiries, please contact us at [your email or contact link here].
+هذا المشروع مرخص تحت [رخصة MIT](LICENSE).
 
----
+## التواصل
 
-This README now reflects that the extension is a community-driven open-source project. You can customize it further based on specific features or how the community is structured. Let me know if you need anything else!
+إذا كان لديك أي أسئلة أو اقتراحات، يرجى فتح [Issue](https://github.com/yourusername/ayah-extension/issues) أو التواصل معي عبر البريد الإلكتروني.
