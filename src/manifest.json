@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "ayah آية",
-    "description": "إضافة إسلامية تعرض آية قرآنية أو حديثًا نبويًا كلما فتحت نافذة جديدة في المتصفح",
+    "description": "إضافة إسلامية تعرض آية قرآنية كلما فتحت نافذة جديدة في المتصفح",
     "version": "0.1",
     "action": {
         "default_popup": "popup/popup.html",
