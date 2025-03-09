@@ -29,14 +29,13 @@ a {
   color: inherit;
 }
 
-
 body {
   display: flex;
   align-items: center;
   flex-direction: column;
   padding: 10px;
   width:  320px;
-  height: 420px;
+  height: 320px;
 
   border-radius: 16px;
   position: relative;
@@ -86,10 +85,8 @@ body {
 
 .description:hover
 {
-  /* color: black; */
   text-shadow:  2px 2px 2px var(--background-color);
   
-  /* font-weight: 900; */
 }
 
 .actions {

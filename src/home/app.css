@@ -67,7 +67,6 @@ body
 main {
     width: 100vw;
     height: 100vh;
-    /* background-image: url('./media/images/galaxy.jpg'); */
     background-size:cover;
 }
 
@@ -127,18 +126,14 @@ main {
 .blur-effect ,main {
 
     filter: blur(20px);
-      /* backdrop-filter: blur(10px); */
-    animation: blurAnimation .5s  forwards; /* Animation duration */
-    /* z-index: -1; */
+    animation: blurAnimation .5s  forwards; 
 }
 
 @keyframes blurAnimation {
     from {
-        /* backdrop-filter: blur(30px) */
         filter : blur(5px); 
     }
     to {
         filter : blur(0px); 
-        /* backdrop-filter: blur(0px) */
     }
 }
